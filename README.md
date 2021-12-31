@@ -1,3 +1,9 @@
+## Watch me - Layout do desafio
+
+Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao final do desafio? Deixamos abaixo um vídeo mostrando as principais funcionalidades que você deve implementar para te ajudar (ou matar sua curiosidade 👀).
+
+https://user-images.githubusercontent.com/8497405/147798994-0cc6c531-08bd-459c-ae6f-73c02fa1e941.mp4
+
 # 💻 Sobre o desafio
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
@@ -71,11 +77,6 @@ Esse componente, também vazio, deve possuir toda a lógica e corpo responsável
 
 Se você preferir, pode também componentizar algumas outras partes da aplicação como, por exemplo, o header, mas esse não está como requisito deste desafio 🚀
 
-## Como deve ficar a aplicação ao final?
-
-Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao final do desafio? Deixamos abaixo um vídeo mostrando as principais funcionalidades que você deve implementar para te ajudar (ou matar sua curiosidade 👀).
-
-[![demo.mp4](./.github/demo.mp4)](video)
 
 # 📅 Entrega
 
